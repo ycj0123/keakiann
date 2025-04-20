@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://keakiann.org/404.html</loc>
+    <loc>https://keakiann.org/404.html</loc>
     
     <lastmod>2025-03-03</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2025/02/21/liong-su/</loc>
+    <loc>https://keakiann.org/2025/02/21/liong-su/</loc>
     
     <lastmod>2025-02-24</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2025/02/05/tsiann-gueh-tiau/</loc>
+    <loc>https://keakiann.org/2025/02/05/tsiann-gueh-tiau/</loc>
     
     <lastmod>2025-02-23</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2025/02/23/tsai-tsuan-hing-tsing-gi/</loc>
+    <loc>https://keakiann.org/2025/02/23/tsai-tsuan-hing-tsing-gi/</loc>
     
     <lastmod>2025-02-23</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2024/12/10/ia-kiu/</loc>
+    <loc>https://keakiann.org/2024/12/10/ia-kiu/</loc>
     
     <lastmod>2024-12-29</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2024/11/27/tiong-poo-ko-sok-kong-loo/</loc>
+    <loc>https://keakiann.org/2024/11/27/tiong-poo-ko-sok-kong-loo/</loc>
     
     <lastmod>2024-11-27</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2024/11/17/ji-bo-mia/</loc>
+    <loc>https://keakiann.org/2024/11/17/ji-bo-mia/</loc>
     
     <lastmod>2024-11-21</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2024/11/09/kue-ni/</loc>
+    <loc>https://keakiann.org/2024/11/09/kue-ni/</loc>
     
     <lastmod>2024-11-17</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2024/11/17/kam-kiat/</loc>
+    <loc>https://keakiann.org/2024/11/17/kam-kiat/</loc>
     
     <lastmod>2024-11-17</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2024/11/10/sann-po-sin-the/</loc>
+    <loc>https://keakiann.org/2024/11/10/sann-po-sin-the/</loc>
     
     <lastmod>2024-11-17</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2024/11/10/beh-khau-beh-nau-beh-tiau-tau/</loc>
+    <loc>https://keakiann.org/2024/11/10/beh-khau-beh-nau-beh-tiau-tau/</loc>
     
     <lastmod>2024-11-17</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2024/11/10/kuan-ke-ti-tu/</loc>
+    <loc>https://keakiann.org/2024/11/10/kuan-ke-ti-tu/</loc>
     
     <lastmod>2024-11-17</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/archives/index.html</loc>
+    <loc>https://keakiann.org/archives/index.html</loc>
     
     <lastmod>2024-11-10</lastmod>
     
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/2024/11/10/kah-bak/</loc>
+    <loc>https://keakiann.org/2024/11/10/kah-bak/</loc>
     
     <lastmod>2024-11-10</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/tags/index.html</loc>
+    <loc>https://keakiann.org/tags/index.html</loc>
     
     <lastmod>2024-11-10</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>http://keakiann.org/categories/index.html</loc>
+    <loc>https://keakiann.org/categories/index.html</loc>
     
     <lastmod>2024-11-10</lastmod>
     
@@ -147,65 +147,65 @@
   
 
   <url>
-    <loc>http://keakiann.org/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://keakiann.org/tags/%E9%9B%BB%E5%BD%B1/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/tags/%E9%87%8E%E7%90%83-%E6%A3%92%E7%90%83/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/tags/%E7%84%A1%E7%BD%AA%E6%8E%A8%E5%AE%9A/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/tags/%E9%9B%BB%E5%BD%B1/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/tags/%E9%87%8E%E7%90%83-%E6%A3%92%E7%90%83/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/tags/%E7%84%A1%E7%BD%AA%E6%8E%A8%E5%AE%9A/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/tags/NoSleep/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/tags/NoSleep/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/tags/%E9%87%8F%E8%A9%9E/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/tags/%E9%87%8F%E8%A9%9E/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/tags/%E5%9C%B0%E8%99%9F%E5%90%8D/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/tags/%E9%81%8E%E5%B9%B4/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/tags/%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9-%E8%AA%9E%E8%A8%80%E5%BE%A9%E6%8C%AF/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/tags/%E5%9C%B0%E8%99%9F%E5%90%8D/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/tags/%E9%81%8E%E5%B9%B4/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/tags/%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9-%E8%AA%9E%E8%A8%80%E5%BE%A9%E6%8C%AF/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -213,50 +213,50 @@
 
   
   <url>
-    <loc>http://keakiann.org/categories/%E5%8F%B0%E8%AA%9E%E6%96%B0%E8%A9%9E%E6%94%BE%E9%80%81/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/categories/%E5%8F%B0%E8%AA%9E%E8%88%8A%E8%A9%9E%E6%94%BE%E9%80%81/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/categories/%E5%8F%B0%E8%AA%9E%E6%96%87%E6%8E%A2%E8%A8%8E/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/categories/%E5%8F%B0%E8%AA%9E%E6%96%B0%E8%A9%9E%E6%94%BE%E9%80%81/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/categories/%E5%8F%B0%E8%AA%9E%E8%88%8A%E8%A9%9E%E6%94%BE%E9%80%81/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/categories/%E5%8F%B0%E8%AA%9E%E6%96%87%E6%8E%A2%E8%A8%8E/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/categories/%E7%BF%BB%E8%AD%AF/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/categories/%E7%BF%BB%E8%AD%AF/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/categories/%E5%9C%96%E8%AA%AA%E5%8F%B0%E7%81%A3/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/categories/%E5%82%B3%E7%B5%B1%E6%96%87%E5%8C%96/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/categories/%E6%9C%AC%E5%9C%9F%E8%AA%9E%E8%A8%80%E9%81%8B%E5%8B%95/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/categories/%E5%9C%96%E8%AA%AA%E5%8F%B0%E7%81%A3/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://keakiann.org/categories/%E5%82%B3%E7%B5%B1%E6%96%87%E5%8C%96/</loc>
-    <lastmod>2025-03-04</lastmod>
+    <loc>https://keakiann.org/categories/%E6%9C%AC%E5%9C%9F%E8%AA%9E%E8%A8%80%E9%81%8B%E5%8B%95/</loc>
+    <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
